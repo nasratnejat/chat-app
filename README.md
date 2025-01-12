@@ -38,7 +38,7 @@ Welcome to the SaaS-Chat-Application repository! This comprehensive guide empowe
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/nasratnejat/saas-chatapplication-translation
+git clone https://github.com/nasratnejat/chat-app
 cd your-repo
 ```
 
